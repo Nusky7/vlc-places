@@ -5,6 +5,29 @@ document.addEventListener('DOMContentLoaded', function () {
         attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
+
+    function manejarErroresDeUbicacion() {
+        alert('No se pudo obtener tu ubicación. Asegúrate de tener el GPS habilitado.');
+    }
+     // Centrar en la ubicacion del usuario
+     function centrarMapaEnUbicacion() {
+        map.locate({ setView: true, maxZoom: 16 });
+
+        // Evento al encontrar la ubicación
+        map.once('locationfound', function (e) {
+            const radius = e.accuracy / 2;
+            L.marker(e.latlng)
+                .addTo(map)
+                .bindPopup(`Estás a aproximadamente ${Math.round(radius)} metros de aquí.`)
+                .openPopup();
+            // círculo alrededor de la ubicación
+            L.circle(e.latlng, radius).addTo(map);
+        });
+        map.once('locationerror', manejarErroresDeUbicacion);
+    }
+
+    document.getElementById('mi-ubicacion').addEventListener('click', centrarMapaEnUbicacion);
+
     // Lugares de interés
     const lugares = [
         {
@@ -128,3 +151,4 @@ document.addEventListener('DOMContentLoaded', function () {
         placeList.appendChild(listItem);
     });
 });
+
