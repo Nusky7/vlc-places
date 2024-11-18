@@ -1,0 +1,208 @@
+body {
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+    background-color:  #e1d7cd; 
+    color: #4f4f4f; 
+    cursor: url('../img/pointer.png') 16 16, auto !important;
+}
+
+li, img:hover,
+h3, h4:hover {
+    cursor: url('../img/ph.gif') 16 16, auto !important;
+}
+
+.leaflet-marker-icon {
+    background-image: url('../img/ph.gif');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+
+
+header {
+    color: #4f4f4f;
+    margin-top: 9px;
+}
+.subtitle {
+    text-shadow: 1px 1px 1px rgba(136, 136, 136, 0.9); 
+}
+
+a {
+    color: #c47f30; 
+}
+a:hover {
+    text-decoration: wavy;
+    color: #c47f30;
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(196, 127, 48, 0.9);
+    cursor: url('../img/ph.gif') 16 16, auto !important;
+}
+
+h1 {
+    color: #c47f30 !important;
+    text-shadow: 0 0 5px rgba(196, 127, 48, 0.9); 
+}
+
+ul {
+    max-height: 550px; 
+    overflow-y: auto;
+    padding-right: 10px; 
+}
+
+li {
+    border-bottom: 2px groove rgba(196, 127, 48, 0.7) !important;
+    background-color: #fdf7f1 !important;
+    margin-top: 1%;
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.1);
+    margin-right: 3%;
+    max-height: 100px; 
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.logo {
+    filter: drop-shadow(0 0 3px rgba(196, 127, 48, 0.7)) !important;
+}
+#map {
+    height: 600px !important;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.9);
+}
+.list-group-item {
+    padding: 15px;
+    background-color: #f5ebe0; 
+    color: #4f4f4f; 
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px; 
+}
+.info-row {
+    background-color: #fdf7f1;
+    border-radius: 7px;
+    box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.1);
+}
+footer {
+    background-color: #f5ebe0; 
+    color: #4f4f4f;
+    padding: 10px 0;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.9);
+}
+
+
+#google_translate_element {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 999;
+    border-radius: 30px !important;
+}
+.goog-te-gadget-simple {
+    border-radius: 30px !important;
+    background-color: #d6c6b2 !important;
+    color: #4f4f4f !important; 
+}
+.goog-te-gadget-icon {
+    display: none !important;
+}
+.logo {
+    width: 60px;
+    height: auto;
+    margin-top: -1%;
+    filter: brightness(1.2);
+}
+.container {
+    background-color: #f5ebe0; 
+    border-radius: 10px;
+    padding: 33px;
+    margin-top: 0 !important;
+    /* box-shadow: 0 0 3px rgba(0, 0, 0, 0.9); */
+}
+h1, h2 {
+    color: #4f4f4f; 
+    font-family: "Lemonade Stand", sans-serif;
+}
+p, ul {
+    color: #4f4f4f;
+}
+.btn {
+    background-color: #c8b7a6; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.btn:hover {
+    background-color: #b8a697;
+}
+
+.leaflet-popup-content-wrapper {
+    background-color: #f5ebe0;
+    width: 100%; 
+    max-width: 250px; 
+    padding: 10px; 
+    /* word-wrap: break-word; 
+    word-break: break-all;  */
+}
+
+.leaflet-popup-content-wrapper p {
+    color: #4f4f4f;
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+.faq-question:hover {
+    color: rgba(196, 127, 48);
+    transform: scale(1.02);
+}
+.tittle, .list-title {
+    color: #c47f30;
+    text-shadow: 0 0 5px rgba(196, 127, 48);
+    text-align: center;
+}
+.list-title {
+    margin-bottom: 15px;
+}
+.mr-3 {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin: 0 3% 0 3% !important;
+}
+.git{
+    color: black;
+    text-shadow: 0 0 5px rgba(196, 127, 48);
+}
+
+@media (max-width: 767px) {
+    .container {
+        max-width: 100%;
+    }
+    .faq-item {
+        flex-direction: column;
+        text-align: center; 
+    }
+
+    .faq-item img {
+        order: 2; 
+        margin-bottom: 15px;
+        max-width: 80%;
+    }
+
+    .faq-item div {
+        order: 1;
+        width: 100%;
+    }
+} 
+@media (min-width: 1280px) { 
+    .container {
+        max-width: 85%;
+    }
+}
+@media (min-width: 1600px) { 
+    .container {
+        max-width: 85%;
+    }
+}
