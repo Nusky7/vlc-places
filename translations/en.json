@@ -1,0 +1,202 @@
+{
+    "lugares": [
+        {
+            "nombre": "🔆 City of Arts and Sciences",
+            "coordenadas": [39.4541, -0.3564],
+            "descripcion": "An impressive famous architectural complex with a museum, aquarium, and more.",
+            "direccion": "Av. del Professor López Piñero, 7",
+            "imagen": "img/places/arts.jpg",
+            "autobuses": [10, 13, 23, 94, 95, 99]
+        },
+        {
+            "nombre": "⛪ Valencia Cathedral",
+            "coordenadas": [39.4751, -0.3753],
+            "descripcion": "A majestic cathedral with Gothic, Romanesque, and Baroque elements.",
+            "direccion": "Plaza de la Reina, s/n",
+            "imagen": "img/places/catedral.jpg",
+            "autobuses": [4, 5, 9, 10, 70, 71, 80, 81]
+        },
+        {
+            "nombre": "🏺 Plaza de La Virgen (Square)",
+            "coordenadas": [39.4769, -0.3752],
+            "descripcion": "One of the most iconic spots in the old town.",
+            "direccion": "Plaza de la Virgen, s/n",
+            "imagen": "img/places/virgen.jpg",
+            "autobuses": [25, 27, 62, 95]
+        },
+        {
+            "nombre": "🔔 El Miguelete (Bell-Tower)",
+            "coordenadas": [39.4751, -0.3753],
+            "descripcion": "The bell tower of the Valencia Cathedral, with spectacular views of the city.",
+            "direccion": "Plaza de la Reina, s/n",
+            "imagen": "img/places/miquelet.jpg",
+            "autobuses": [26, 32, 4, 60, 70]
+        },
+        {
+            "nombre": "🕍 Lonja de la Seda",
+            "coordenadas": [39.4745, -0.3783],
+            "descripcion": "A prime example of Gothic architecture, declared a World Heritage Site.",
+            "direccion": "C/ de la Llotja, 2, 46001",
+            "imagen": "img/places/lonja.jpg",
+            "autobuses": [4, 7, 27, 28, 60, 81]
+        },
+        {
+            "nombre": "🍊 Central Market",
+            "coordenadas": [39.4735, -0.3790],
+            "descripcion": "Valencia's historic market offering a wide variety of fresh and local products.",
+            "direccion": "Plaza Ciudad de Brujas, s/n, 46001",
+            "imagen": "img/places/central.jpg",
+            "autobuses": [4, 7, 27, 28, 60, 81]
+        },
+        {
+            "nombre": "🌳 Turia Gardens",
+            "coordenadas": [39.477239890854655, -0.3694770000319716],
+            "descripcion": "A vast garden crossing along the city, perfect for walks and outdoor activities.",
+            "direccion": "Av. de Manuel de Falla, s/n",
+            "imagen": "img/places/turia.jpg",
+            "autobuses": [11, 28, 70, 95]
+        },
+        {
+            "nombre": "🏰 Serranos Towers",
+            "coordenadas": [39.4785, -0.3732],
+            "descripcion": "A gate from the medieval city wall with panoramic views.",
+            "direccion": "Plaza de los Fueros, s/n",
+            "imagen": "img/places/serranos.jpg",
+            "autobuses": [1, 4, 5, 19, 27, 80, 95]
+        },
+        {
+            "nombre": "🏰 Quart Towers",
+            "coordenadas": [39.4764, -0.3838],
+            "descripcion": "Another gate of the medieval wall, bearing witness to Valencia's history.",
+            "direccion": "C/ Guillem de Castro, 89",
+            "imagen": "img/places/quart.jpg",
+            "autobuses": [2, 5, 27, 60, 64, 79, 81]
+        },
+        {
+            "nombre": "🎨 Fine Arts Museum",
+            "coordenadas": [39.4791, -0.3711],
+            "descripcion": "One of Spain's most important museums, with an extensive art collection.",
+            "direccion": "C/ de Sant Pius V, 9, 46010",
+            "imagen": "img/places/barts.jpg",
+            "autobuses": [1, 6, 11, 16, 19, 28, 64, 79, 80, 95]
+        },
+        {
+            "nombre": "🏛️ City Hall Square (Plaza Ayuntamiento)",
+            "coordenadas": [39.4698, -0.3762],
+            "descripcion": "A central area surrounded by historic and ornate buildings.",
+            "direccion": "Plaza del Ayuntamiento, s/n",
+            "imagen": "img/places/ayun.jpg",
+            "autobuses": [4, 6, 8, 9, 11, 16, 26, 28, 70, 71, 72, 81]
+        },
+        {
+            "nombre": "🏛️ Palace of the Marqués de Dos Aguas",
+            "coordenadas": [39.4719, -0.3749],
+            "descripcion": "An impressive Baroque palace housing the National Ceramics Museum.",
+            "direccion": "C/ Poeta Querol, 2",
+            "imagen": "img/places/marques.jpg",
+            "autobuses": [4, 8, 9, 10, 11, 28, 31, 71]
+        },
+        {
+            "nombre": "🦁 Bioparc Valencia",
+            "coordenadas": [39.4781, -0.4136],
+            "descripcion": "An innovative zoo with immersive habitats.",
+            "direccion": "Av. Pío Baroja, 3",
+            "imagen": "img/places/bioparc.jpg",
+            "autobuses": [2, 5, 67, 90, 95]
+        },
+        {
+            "nombre": "🐂  Plaza de Toros (Bullring)",
+            "coordenadas": [39.4658, -0.3758],
+            "descripcion": "A historic venue that also hosts cultural events.",
+            "direccion": "C/ Xàtiva, 28",
+            "imagen": "img/places/toros.jpg",
+            "autobuses": [5, 8, 10, 19, 27, 32, 62, 81]
+        },
+        {
+            "nombre": "🏛️ IVAM",
+            "coordenadas": [39.4763, -0.3795],
+            "descripcion": "Valencian Institute of Modern Art. Museum of modern and contemporary art with innovative exhibitions.",
+            "direccion": "C/ de Guillem de Castro, 118",
+            "imagen": "img/places/ivam.jpg",
+            "autobuses": [1, 5, 19, 27, 79, 80, 95]
+        },
+        {
+            "nombre": "🎨 MUVIM",
+            "coordenadas": [39.4718, -0.3814],
+            "descripcion": "Valencian Museum of Enlightenment and Modernity. Exhibitions related to enlightenment and modernity.",
+            "direccion": "C/ de Quevedo, 10",
+            "imagen": "img/places/muvim.jpg",
+            "autobuses": [2, 3, 5, 9, 10, 27, 60, 62, 71, 81]
+        },
+        {
+            "nombre": "🐟 Oceanogràfic",
+            "coordenadas": [39.4542, -0.3490],
+            "descripcion": "The largest aquarium in Europe, featuring habitats from around the world.",
+            "direccion": "Carrer d'Eduardo Primo Yúfera, 1B",
+            "imagen": "img/places/oceano.jpg",
+            "autobuses": [1, 2, 19, 35, 89, 95]
+        },
+        {
+            "nombre": "🚢 Port pf Valencia",
+            "coordenadas": [39.4597, -0.3255],
+            "descripcion": "The city’s main port, offering stunning views and recreational activities.",
+            "direccion": "Av. del Puerto, s/n",
+            "imagen": "img/places/puerto.jpg",
+            "autobuses": [1, 2, 3, 4, 19, 32]
+        },
+        {
+            "nombre": "🏖️ Malvarrosa Beach",
+            "coordenadas": [39.4801, -0.3274],
+            "descripcion": "One of the most popular beaches in Valencia",
+            "direccion": "Paseo Marítimo",
+            "imagen": "img/places/malvarrosa.jpg",
+            "autobuses": [2, 19, 31, 32]
+        },
+        {
+            "nombre": "🎭 Rialto Theatre",
+            "coordenadas": [39.4715, -0.3763],
+            "descripcion": "A historic theatre in the city center, known for its architecture and performances.",
+            "direccion": "Carrer de las Barcas, 15",
+            "imagen": "img/places/rialto.jpg",
+            "autobuses": [6, 8, 9, 10, 11, 13, 26, 31, 62, 70, 71, 81]
+        },
+        {
+            "nombre": "🏰 La Beneficencia",
+            "coordenadas": [39.4777, -0.3763],
+            "descripcion": "A cultural center hosting museums and activities.",
+            "direccion": "C/ de la Corona, 36",
+            "imagen": "img/places/beneficencia.jpg",
+            "autobuses": [1, 2, 3, 5, 9, 10, 79, 80, 95]
+        },
+        {
+            "nombre": "🏛️ Valencia History Museum",
+            "coordenadas": [39.4785, -0.4067],
+            "descripcion": "A museum dedicated to Valencia's history from its origins.",
+            "direccion": "C/ de València, 42",
+            "imagen": "img/places/historia.jpg",
+            "autobuses": [2, 3, 29, 81, 90, 95]
+        },
+        {
+            "nombre": "🎼 Music Palace",
+            "coordenadas": [39.4642, -0.3553],
+            "descripcion": "An important auditorium hosting concerts and cultural events.",
+            "direccion": "Passeig de l'Albereda, 30",
+            "imagen": "img/places/palau.jpg",
+            "autobuses": [1, 2, 3, 4, 10, 80, 95]
+        },
+        {
+            "nombre": "🏰 City Museum",
+            "coordenadas": [39.4723, -0.3739],
+            "descripcion": "A museum telling Valencia's history since its foundation.",
+            "direccion": "Plaza del Arzobispo, 3",
+            "imagen": "img/places/ciudad.jpg",
+            "autobuses": [4, 5, 9, 10, 71, 79, 81]
+        }
+    ],
+    "staticText": {
+        "descripcion": "Discover the best places of interest in Valencia",
+        "btnUbicacion": "I'm Here",
+        "faqTitulo": "Frequent Questions",
+        "faqDescripcion": "Find answers to the most frequent questions in Valencia"
+      }
+}

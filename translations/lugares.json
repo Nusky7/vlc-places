@@ -1,0 +1,101 @@
+[
+    {
+        "nombre": "🔆 Ciudad de las Artes y las Ciencias",
+        "coordenadas": [39.4541, -0.3564],
+        "descripcion": "Un impresionante complejo arquitectónico con museo, acuario y más.",
+        "descripcion_en": "An impressive architectural complex with a museum, aquarium, and more.",
+        "direccion": "Av. del Professor López Piñero, 7",
+        "imagen": "img/places/arts.jpg",
+        "autobuses": [10, 13, 23, 94, 95, 99]
+    },
+    {
+        "nombre": "⛪ Catedral de Valencia",
+        "coordenadas": [39.4751, -0.3753],
+        "descripcion": "Una majestuosa catedral con elementos góticos, románicos y barrocos.",
+        "descripcion_en": "A majestic cathedral with Gothic, Romanesque, and Baroque elements.",
+        "direccion": "Plaza de la Reina, s/n",
+        "imagen": "img/places/catedral.jpg",
+        "autobuses": [4, 5, 9, 10, 70, 71, 80, 81]
+    },
+    {
+        "nombre": "🏺 Plaza de la Virgen",
+        "coordenadas": [39.4769, -0.3752],
+        "descripcion": "Uno de los lugares más icónicos del casco antiguo.",
+        "descripcion_en": "One of the most iconic places in the old town.",
+        "direccion": "Plaza de la Virgen, s/n",
+        "imagen": "img/places/virgen.jpg",
+        "autobuses": [25, 27, 62, 95]
+    },
+    {
+        "nombre": "🔔 Miguelete",
+        "coordenadas": [39.4751, -0.3753],
+        "descripcion": "El campanario de la Catedral de Valencia, con vistas espectaculares de la ciudad.",
+        "descripcion_en": "The bell tower of the Cathedral of Valencia, with spectacular views of the city.",
+        "direccion": "Plaza de la Reina, s/n",
+        "imagen": "img/places/miquelet.jpg",
+        "autobuses": [26, 32, 4, 60, 70]
+    },
+    {
+        "nombre": "🕍 Lonja de la Seda",
+        "coordenadas": [39.4745, -0.3783],
+        "descripcion": "Un ejemplo destacado de arquitectura gótica, declarado Patrimonio de la Humanidad.",
+        "descripcion_en": "A prominent example of Gothic architecture, declared a World Heritage site.",
+        "direccion": "C/ de la Llotja, 2, 46001",
+        "imagen": "img/places/lonja.jpg",
+        "autobuses": [4, 7, 27, 28, 60, 81]
+    },
+    {
+        "nombre": "🍊 Mercado Central",
+        "coordenadas": [39.4735, -0.3790],
+        "descripcion": "Un mercado histórico con una amplia oferta de productos frescos y locales.",
+        "descripcion_en": "A historic market with a wide range of fresh and local products.",
+        "direccion": "Plaza Ciudad de Brujas, s/n, 46001",
+        "imagen": "img/places/central.jpg",
+        "autobuses": [4, 7, 27, 28, 60, 81]
+    },
+    {
+        "nombre": "🌳 Jardín del Turia",
+        "coordenadas": [39.477239890854655, -0.3694770000319716],
+        "descripcion": "Un extenso jardín que cruza la ciudad, ideal para paseos y actividades al aire libre.",
+        "descripcion_en": "An extensive garden crossing the city, ideal for walks and outdoor activities.",
+        "direccion": "Av. de Manuel de Falla, s/n",
+        "imagen": "img/places/turia.jpg",
+        "autobuses": [11, 28, 70, 95]
+    },
+    {
+        "nombre": "🏰 Torres de Serranos",
+        "coordenadas": [39.4785, -0.3732],
+        "descripcion": "Puerta de la antigua muralla medieval con vistas panorámicas.",
+        "descripcion_en": "Gate of the old medieval wall with panoramic views.",
+        "direccion": "Plaza de los Fueros, s/n",
+        "imagen": "img/places/serranos.jpg",
+        "autobuses": [1, 4, 5, 19, 27, 80, 95]
+    },
+    {
+        "nombre": "🏰 Torres de Quart",
+        "coordenadas": [39.4764, -0.3838],
+        "descripcion": "Otra puerta de la muralla medieval, testigo de la historia de Valencia.",
+        "descripcion_en": "Another gate of the medieval wall, a witness to the history of Valencia.",
+        "direccion": "C/ Guillem de Castro, 89",
+        "imagen": "img/places/quart.jpg",
+        "autobuses": [2, 5, 27, 60, 64, 79, 81]
+    },
+    {
+        "nombre": "🎨 Museo de Bellas Artes",
+        "coordenadas": [39.4791, -0.3711],
+        "descripcion": "Uno de los museos más importantes de España, con una extensa colección de arte.",
+        "descripcion_en": "One of Spain's most important museums, with an extensive art collection.",
+        "direccion": "C/ de Sant Pius V, 9, 46010",
+        "imagen": "img/places/barts.jpg",
+        "autobuses": [1, 6, 11, 16, 19, 28, 64, 79, 80, 95]
+    },
+    {
+        "nombre": "🏛️ Plaza del Ayuntamiento",
+        "coordenadas": [39.4698, -0.3762],
+        "descripcion": "Un lugar céntrico rodeado de edificios históricos y ornamentales.",
+        "descripcion_en": "A central location surrounded by historic and ornamental buildings.",
+        "direccion": "Plaza del Ayuntamiento, s/n",
+        "imagen": "img/places/ayun.jpg",
+        "autobuses": [4, 6, 8, 9, 11, 16, 26, 28, 70, 71, 72, 81]
+    }
+]

@@ -8,6 +8,7 @@
     --btn-bg:#FDF7F1;
     --btn-hover-bg: #ffffff;
     --map-border-color: rgba(0, 0, 0, 0.9);
+    --git-shadow: drop-shadow(0 0 1px rgba(255, 255, 255, 0.9));
 }
 
 [data-theme="dark"] {
@@ -20,6 +21,7 @@
     --btn-bg: #1f1e1e;
     --btn-hover-bg: #0b0b0b;
     --map-border-color: rgba(255, 255, 255, 0.7);
+    --git-shadow: drop-shadow(0 0 1px rgba(0, 0, 0, 0.9));
 }
 body {
     margin: 0;
@@ -29,9 +31,9 @@ body {
     transition: background-color 0.3s, color 0.3s;
     cursor: url('../img/pointer.png') 16 16, auto !important;
 }
-li, img:hover,
+li:hover,
 h3, h4:hover {
-    cursor: url('../img/ph.gif') 16 16, auto !important;
+    cursor: url('../img/point.png') 16 16, pointer !important;
 }
 
 .leaflet-marker-icon {
@@ -56,9 +58,13 @@ header {
     color: var(--text-color);
     text-shadow: 1px 1px 1px rgba(136, 136, 136, 0.9); 
 }
-#theme-toggle {
-    margin-left: auto;
-    /* border: 2px ridge #c47f30; */
+.lang{
+    max-width: 20px;
+}
+.head-btn {
+    /* position: absolute !important; */
+    margin-top: 0 !important;
+    /* margin: 6px; */
     border-radius: 12px;
     background-color: #c47f3047;
     text-shadow: 0 0 3px rgba(0, 0, 0, 0.9);
@@ -121,7 +127,7 @@ footer {
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.9);
 }
 
-footer p{
+footer p, .leaflet-popup-content{
     color: var(--text-color) !important;
 }
 
@@ -166,6 +172,7 @@ h3{
     color: #c47f30;
     transform: scale(1.1);
     box-shadow: 0 0 3px rgba(242, 154, 48, 0.9);
+    cursor: url('../img/point.png') 16 16, pointer !important;
 }
 li:hover{
    transform: translateY(1px);
@@ -177,8 +184,7 @@ li:hover{
     width: 100%; 
     max-width: 250px; 
     padding: 10px; 
-    /* word-wrap: break-word; 
-    word-break: break-all;  */
+    cursor: url('../img/heart.gif') 16 16, auto !important;
 }
 
 .leaflet-popup-content-wrapper p {
@@ -208,13 +214,16 @@ li:hover{
 }
 .git{
     color: var(--text-color);
-    text-shadow: 0 0 5px rgba(196, 127, 48);
+    text-shadow: 0 0 3px rgb(225, 136, 34);
+    filter: var(--git-shadow);
+    
 }
 .bus-lines {
     margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
     gap: 5px;
+    justify-content: center;
 }
 .bus-circle {
     display: inline-flex;
@@ -223,7 +232,7 @@ li:hover{
     width: 23px;
     height: 23px;
     border-radius: 50%;
-    background-color: rgb(255, 51, 0);
+    background-color:#D24400;
     color: white;
     text-shadow: 1px 1px 1px black;
     font-weight: bold;
@@ -234,7 +243,7 @@ li:hover{
 .bus-circle:hover {
     transform: scale(1.2);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    cursor: pointer;
+    cursor: url('../img/point.png') 16 16, pointer !important;
 }
 
 
@@ -268,3 +277,7 @@ li:hover{
         max-width: 85%;
     }
 }
+
+
+
+
