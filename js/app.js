@@ -23,14 +23,14 @@ document.addEventListener('DOMContentLoaded', function () {
     function toggleLanguage() {
         currentLanguage = currentLanguage === 'es' ? 'en' : 'es';
         localStorage.setItem('idioma', currentLanguage);
-        languageIcon.src = currentLanguage === 'es' ? 'img/es.png' : 'img/en.png';
+        languageIcon.src = currentLanguage === 'en' ? 'img/es.png' : 'img/en.png';
         cargarLugaresYTextos(currentLanguage);
     }
 
     languageButton.addEventListener('click', toggleLanguage);
 
     // Configurar ícono inicial según idioma
-    languageIcon.src = currentLanguage === 'es' ? 'img/es.png' : 'img/en.png';
+    languageIcon.src = currentLanguage === 'en' ? 'img/es.png' : 'img/en.png';
 
     // Cargar mapa 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
