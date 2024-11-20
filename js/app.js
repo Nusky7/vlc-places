@@ -32,10 +32,12 @@ document.addEventListener('DOMContentLoaded', function () {
     // Configurar ícono inicial según idioma
     languageIcon.src = currentLanguage === 'en' ? 'img/es.png' : 'img/en.png';
 
+
     // Cargar mapa 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; OpenStreetMap contributors',
     }).addTo(map);
+
 
     function manejarErroresDeUbicacion() {
         alert(idiomaInicial === 'es'
@@ -78,6 +80,21 @@ document.addEventListener('DOMContentLoaded', function () {
                     document.getElementById('mi-ubicacion').textContent = staticText.btnUbicacion;
                     document.getElementById('faq-t').textContent = staticText.faqTitulo;
                     document.getElementById('faq-s').textContent = staticText.faqDescripcion;
+                    document.getElementById('list-title').textContent = staticText.tituloLista;
+                    document.getElementById('intro').innerHTML = staticText.intro;
+                    document.getElementById('quest').textContent = staticText.quest;
+                    document.getElementById('ans').innerHTML = staticText.ans; 
+                    document.getElementById('quest1').textContent = staticText.quest1;
+                    document.getElementById('ans1').innerHTML = staticText.ans1; 
+                    document.getElementById('quest2').textContent = staticText.quest2;
+                    document.getElementById('ans2').innerHTML = staticText.ans2;
+                    document.getElementById('quest3').textContent = staticText.quest3;
+                    document.getElementById('ans3').innerHTML = staticText.ans3;
+                    document.getElementById('quest4').textContent = staticText.quest4;
+                    document.getElementById('ans4').innerHTML = staticText.ans4;
+                    document.getElementById('history-t').textContent = staticText.historyt;
+                    document.getElementById('history-s').textContent = staticText.historys;
+                    document.getElementById('history').innerHTML = staticText.history;
                 }
 
                 // Mostrar lugares
@@ -100,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         <h3>${lugar.nombre}</h3>
                         ${lugar.imagen ? `<img src="${lugar.imagen}" alt="${lugar.nombre}" style="width: 100%; height: auto; border-radius: 5px;">` : ''}
                         <p>${lugar.descripcion}</p>
-                        <p><strong> Dirección </strong><br> 🚌 ${lugar.direccion}</p>
+                        <p><strong class="bus"> ${data.staticText.direccion} </strong><br> 🚌 ${lugar.direccion}</p>
                         ${busLinesHTML}
                     `;
 

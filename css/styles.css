@@ -1,7 +1,7 @@
 :root {
     --background-color: #e1d7cd;
     --container-color:  #f5ebe0;
-    --popup-title:#904e02;
+    --popup-title:#a05d11;
     --text-color: #4f4f4f; 
     --marker-color: #007bff;
     --link-color: #c47f30;
@@ -14,7 +14,7 @@
 [data-theme="dark"] {
     --background-color: #171717; 
     --container-color:  #3a3a3a;
-    --popup-title:  #edcea8;
+    --popup-title:  #f6bb73;
     --text-color: rgb(228, 228, 228); 
     --marker-color: #ff5722; 
     --link-color: #ff8c42;
@@ -26,6 +26,7 @@
 body {
     margin: 0;
     font-family: "Quicksand", sans-serif;
+    font-weight: 400 !important;
     background-color: var(--background-color);
     color: var(--text-color);
     transition: background-color 0.3s, color 0.3s;
@@ -35,14 +36,6 @@ li:hover,
 h3, h4:hover {
     cursor: url('../img/point.png') 16 16, pointer !important;
 }
-
-.leaflet-marker-icon {
-    background-image: url('../img/ph.gif');
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat; 
-}
-
 header {
     margin-top: 9px;
     display: flex;
@@ -54,6 +47,11 @@ header {
     flex: 1;
     text-align: center; 
 }
+.title1{
+    margin-top: 3%;
+    text-shadow: 1px 1px 1px rgba(196, 127, 48, 0.7);
+    font-size: 3em;
+}
 .subtitle {
     color: var(--text-color);
     text-shadow: 1px 1px 1px rgba(136, 136, 136, 0.9); 
@@ -62,9 +60,7 @@ header {
     max-width: 20px;
 }
 .head-btn {
-    /* position: absolute !important; */
     margin-top: 0 !important;
-    /* margin: 6px; */
     border-radius: 12px;
     background-color: #c47f3047;
     text-shadow: 0 0 3px rgba(0, 0, 0, 0.9);
@@ -84,6 +80,7 @@ a:hover {
 h1 {
     color: #c47f30 !important;
     text-shadow: 0 0 5px rgba(196, 127, 48, 0.9); 
+    font-size: 3.5em;
 }
 ul {
     max-height: 480px; 
@@ -131,7 +128,6 @@ footer p, .leaflet-popup-content{
     color: var(--text-color) !important;
 }
 
-
 #google_translate_element {
     position: fixed;
     top: 10px;
@@ -152,7 +148,7 @@ footer p, .leaflet-popup-content{
     margin-top: 0 !important;
 }
 h1, h2{
-    font-family: "Lemonade Stand", sans-serif;
+    font-family: "Meow Script", sans-serif;
 }
 h3{
     color: var(--text-color);
@@ -198,13 +194,14 @@ li:hover{
     color: rgba(196, 127, 48);
     transform: scale(1.02);
 }
-.tittle, .list-title {
+.tittle, .list-title{
     color: #c47f30;
     text-shadow: 0 0 5px rgba(196, 127, 48);
     text-align: center;
 }
 .list-title {
     margin-bottom: 15px;
+    font-size: 2.1em;
 }
 .mr-3 {
     width: 200px;
@@ -245,6 +242,35 @@ li:hover{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     cursor: url('../img/point.png') 16 16, pointer !important;
 }
+.bus{
+    color: var(--popup-title);
+}
+#info{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.card{
+    background-color: var(--background-color);
+    border-color: var(--container-color) !important;
+    border-radius: 10px;   
+}
+.card-header{
+    font-family: "Amatic SC", sans-serif;
+    font-size: 1.2em;
+    cursor: url('../img/point.png') 16 16, pointer !important;
+}
+.card-body{
+    margin: 2%;
+    text-align: center; 
+    line-height: 1.5;
+}
+.card h3, .subt{
+    color: var(--popup-title);
+    text-shadow: 0.6px 0.6px 1px rgba(43, 43, 43, 0.9);
+}
+.card h3:hover{
+    color:  #ec9128;
+}
 
 
 @media (max-width: 767px) {
@@ -266,6 +292,18 @@ li:hover{
         order: 1;
         width: 100%;
     }
+    .header-bts{
+        position: relative !important;
+        margin: 2px;
+        margin-bottom: -15px;
+    }
+    h1{
+        font-size: 2.8em;
+    }
+    .card, #intro, #history {
+       margin: 0 -25% !important;
+    }
+   
 } 
 @media (min-width: 1280px) { 
     .container {

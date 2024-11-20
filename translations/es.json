@@ -196,7 +196,25 @@
     "staticText": {
         "descripcion": "Descubre los mejores lugares de interés en Valencia",
         "btnUbicacion": "Estoy aquí",
-        "faqTitulo": "Preguntas Frecuentes",
-        "faqDescripcion": "Encuentra respuestas a las dudas más comunes sobre Valencia."
+        "faqTitulo": "Explorando Valencia",
+        "faqDescripcion": "Resuelve tus dudas y descubre información útil para disfrutar al máximo de Valencia",
+        "tituloLista": "Lugares de Interes",
+        "direccion": "Dirección y Autobús",
+        "intro": "Valencia es la tercera ciudad más grande de España, conocida por su rica historia y vibrante cultura. <br> Es famosa por su casco antiguo lleno de encanto, la Ciudad de las Artes y las Ciencias, y por ser la cuna de la paella. Con su clima mediterráneo, playas hermosas y festividades únicas como las Fallas, Valencia combina lo mejor de la tradición y la innovación, convirtiéndola en un destino imprescindible.",
+        "quest": "¿Que es El Carmen?",
+        "ans": "El Barrio del Carmen es un vecindario en el distrito de Ciutat Vella. <br> Todas las personas interesadas en hacer turismo deberían ir, pues esta zona es conocida por su antigua arquitectura, así como por ser una zona de alto movimiento social, cultural y de convergencia artística. ",
+        "quest1": "¿Que es Ruzafa?",
+        "ans1": "Ruzafa es un barrio en el distrito del Eixample de Valencia. <br> Es de las áreas más populares de la ciudad, conocida por las galerías de arte, sus cafeterías con terraza al aire libre, los bares y pubs extravagantes y los negocios artesanales. ",
+        "quest2": "¿Que es el Cabanyal?",
+        "ans2": "El Cabanyal es un barrio costero ubicado en el distrito de Poblats Marítims, junto a la playa de la Malvarrosa. <br> Este barrio destaca por sus calles peatonales llenas de vida, sus casas históricas con fachadas coloridas y un ambiente bohemio. Es un lugar ideal para disfrutar de bares y cafeterías de estilo relajado. Es conocido por su rica tradición marítima y cultural. ",
+        "quest3": "¿Cuantas playas hay en Valencia?",
+        "ans3": "Las playas de Valencia incluyen la Playa de la Malvarrosa (también conocida como Playa del Cabañal), la Playa de Las Arenas y la Playa de la Patacona. <br> Las dos primeras se encuentran en el barrio de Poblats Marítims, mientras que la Playa de la Patacona pertenece al municipio de Alboraya.",
+        "quest4": "¿Qué son las Fallas?",
+        "ans4": "Las Fallas son la celebración más importante de Valencia, declarada Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. <br> Cada marzo, la ciudad se llena de arte, música, pólvora y fuego, con monumentos espectaculares de cartón piedra que se queman el 19 de Marzo durante la <strong>'Nit de la Cremà'</strong>.",
+        "historyt": "Algo de Historia...",
+        "historys": "Conoce los orígenes de esta antigua ciudad",
+        "history": "  Valencia tiene una rica historia que data de tiempos remotos. En 1238, el rey Jaume I de Aragón conquistó la ciudad, marcando el inicio de una nueva etapa en su historia. <br> A partir de entonces, Valencia se consolidó como un importante centro cultural y comercial del Reino de Valencia. Durante la Edad Media, la ciudad fue testigo de un florecimiento arquitectónico y artístico, con la construcción de importantes monumentos como la Lonja de la Seda y la Catedral de Valencia, que aún hoy son testigos del esplendor de su pasado. A lo largo de los siglos, Valencia ha sido un punto clave en la historia de España, adaptándose a las diferentes influencias culturales, pero siempre manteniendo su identidad única."
+
+        
       }
 }

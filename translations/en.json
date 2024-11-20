@@ -196,7 +196,23 @@
     "staticText": {
         "descripcion": "Discover the best places of interest in Valencia",
         "btnUbicacion": "I'm Here",
-        "faqTitulo": "Frequent Questions",
-        "faqDescripcion": "Find answers to the most frequent questions in Valencia"
-      }
+        "faqTitulo": "Exploring Valencia",
+        "faqDescripcion": "Find answers to common questions and discover useful information to make the most of your time in Valencia",
+        "tituloLista": "Must Visit Places",
+        "direccion": "Adress & Bus",
+        "intro": "Valencia is the third-largest city in Spain, known for its rich history and vibrant culture. <br> It is famous for its charming old town, the City of Arts and Sciences, and as the birthplace of paella. With its Mediterranean climate, beautiful beaches, and unique festivities like Las Fallas, Valencia blends tradition and innovation, making it a must-visit destination.",
+        "quest": "What is El Carmen?",
+        "ans": "El Carmen is a neighborhood in the Ciutat Vella district. It's a must-visit area for tourists, known for its ancient architecture and its reputation as a hub for art and culture.",
+        "quest1": "What is Ruzafa?",
+        "ans1": "Ruzafa is a neighborhood in the Eixample district of Valencia. <br> It is one of the city's most popular areas, known for its art galleries, outdoor cafés, unique bars and pubs, and artisan shops.",
+        "quest2": "What is El Cabanyal?",
+        "ans2": "El Cabanyal is a charming coastal neighborhood located in the Poblats Marítims district, next to Malvarrosa Beach. <br> This area is known for its lively pedestrian streets, colorful historic houses and bohemian atmosphere. It’s a great spot to enjoy relaxed bars and cafés, and it's celebrated for its rich maritime and cultural traditions.",
+        "quest3": "How many beaches are there in Valencia?",
+        "ans3": "The beaches of Valencia include Malvarrosa Beach (also known as Cabañal Beach), Las Arenas Beach, and Patacona Beach. The first two are located in the Poblats Marítims neighborhood, while Patacona Beach belongs to the municipality of Alboraya.",
+        "quest4": "What are the Fallas?",
+        "ans4": "The Fallas are the most important celebration in Valencia, declared Intangible Cultural Heritage of Humanity by UNESCO. <br> Every March, the city is filled with art, music, gunpowder, and fire, featuring spectacular cardboard monuments that are burned on March 19th during the <strong>'Nit de la Cremà'</strong>.",
+        "historyt": "A Bit of History...",
+        "historys": "Discover the origins of this ancient city",
+        "history": "Valencia has a rich history dating back to ancient times. In 1238, King Jaume I of Aragon conquered the city, marking the beginning of a new era in its history. <br> From that point on, Valencia became an important cultural and commercial center of the Kingdom of Valencia. During the Middle Ages, the city witnessed an architectural and artistic flourishing, with the construction of important monuments such as the Lonja de la Seda and the Valencia Cathedral, which are still witnesses to the splendor of its past. Over the centuries, Valencia has been a key point in the history of Spain, adapting to different cultural influences while always maintaining its unique identity."
+    }
 }
