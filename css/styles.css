@@ -83,7 +83,7 @@ h1 {
     font-size: 3.5em;
 }
 ul {
-    max-height: 480px; 
+    max-height: 360px; 
     overflow-y: auto;
     padding-right: 10px; 
 }
@@ -91,7 +91,7 @@ ul {
     filter: drop-shadow(0 0 3px rgba(196, 127, 48, 0.7)) !important;
 }
 #map {
-    height: 600px !important;
+    height: 490px !important;
     width: 100%;
     border-radius: 10px;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.9);
@@ -180,7 +180,7 @@ li:hover{
     width: 100%; 
     max-width: 250px; 
     padding: 10px; 
-    cursor: url('../img/heart.gif') 16 16, auto !important;
+    cursor: url('../img/ph.gif') 16 16, auto !important;
 }
 
 .leaflet-popup-content-wrapper p {
@@ -308,6 +308,9 @@ li:hover{
     }
     .logo{
         display: none;
+    }
+    #map, ul{
+        height: 600px !important;
     }
    
 } 
