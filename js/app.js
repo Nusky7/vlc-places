@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', function () {
     const themeToggle = document.getElementById('theme-toggle');
     const languageButton = document.getElementById('language-toggle');
     const languageIcon = document.getElementById('language-icon');
-
     const currentTheme = localStorage.getItem('theme') || 'light';
     let currentLanguage = localStorage.getItem('idioma') || (navigator.language.startsWith('es') ? 'es' : 'en');
 
@@ -142,6 +141,19 @@ document.addEventListener('DOMContentLoaded', function () {
                                 }
                             }
                         }, 300);
+                        // Desplazar al mapa en vista movil
+                        if (window.innerWidth <= 768) { 
+                            const mapElement = document.getElementById('map');
+                            if (mapElement) {
+                                const offset = 20;
+                                const mapTop = mapElement.getBoundingClientRect().top + window.scrollY;
+                                
+                                window.scrollTo({
+                                    top: mapTop - offset,
+                                    behavior: 'smooth',   
+                                });
+                            }
+                        }
                         map.setView(lugar.coordenadas, 15);
                     });
 
