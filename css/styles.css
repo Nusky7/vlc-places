@@ -146,6 +146,7 @@ footer p, .leaflet-popup-content{
     border-radius: 10px;
     padding: 33px;
     margin-top: 0 !important;
+    margin-bottom: 0 !important;
 }
 h1, h2{
     font-family: "Meow Script", sans-serif;
@@ -271,7 +272,16 @@ li:hover{
 .card h3:hover{
     color:  #ec9128;
 }
-
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+video {
+    border-radius: 7px;
+    height: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
 
 @media (max-width: 767px) {
     .container {
@@ -311,6 +321,9 @@ li:hover{
     }
     #map, ul{
         height: 600px !important;
+    }
+    video{
+        max-width: 300px;
     }
    
 } 

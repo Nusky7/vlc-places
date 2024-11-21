@@ -4,31 +4,31 @@
             "nombre": "🔆 Ciudad de las Artes y las Ciencias",
             "coordenadas": [39.4541, -0.3564],
             "descripcion": "Un impresionante y famoso complejo arquitectónico con museo, acuario y más.",
-            "direccion": "Av. del Professor López Piñero, 7",
+            "direccion": "Av. del Professor López Piñero, 7, Quatre Carreres",
             "imagen": "img/places/arts.jpg",
             "autobuses": [10, 13, 23, 94, 95, 99]
         },
         {
             "nombre": "⛪ Catedral de Valencia",
-            "coordenadas": [39.4751, -0.3753],
+            "coordenadas": [39.4754, -0.3754],
             "descripcion": "Una majestuosa catedral con elementos góticos, románicos y barrocos.",
-            "direccion": "Plaza de la Reina, s/n",
+            "direccion": "Pl. de l'Almoina, s/n, Ciutat Vella",
             "imagen": "img/places/catedral.jpg",
             "autobuses": [4, 5, 9, 10, 70, 71, 80, 81]
         },
         {
             "nombre": "🏺 Plaza de la Virgen",
-            "coordenadas": [39.4769, -0.3752],
+            "coordenadas": [39.4765, -0.3749],
             "descripcion": "Uno de los lugares más icónicos del casco antiguo.",
-            "direccion": "Plaza de la Virgen, s/n",
+            "direccion": "Plaza de la Virgen, Ciutat Vella",
             "imagen": "img/places/virgen.jpg",
             "autobuses": [25, 27, 62, 95]
         },
         {
             "nombre": "🔔 Miguelete",
-            "coordenadas": [39.4751, -0.3753],
+            "coordenadas": [39.4754, -0.3755],
             "descripcion": "El campanario de la Catedral de Valencia, con vistas espectaculares de la ciudad.",
-            "direccion": "Plaza de la Reina, s/n",
+            "direccion": "Plaza de la Reina, Ciutat Vella",
             "imagen": "img/places/miquelet.jpg",
             "autobuses": [26, 32, 4, 60, 70]
         },
@@ -36,31 +36,31 @@
             "nombre": "🕍 Lonja de la Seda",
             "coordenadas": [39.4745, -0.3783],
             "descripcion": "Un ejemplo destacado de arquitectura gótica, declarado Patrimonio de la Humanidad.",
-            "direccion": "C/ de la Llotja, 2, 46001",
+            "direccion": "C/ de la Llotja, 2, Ciutat Vella",
             "imagen": "img/places/lonja.jpg",
             "autobuses": [4, 7, 27, 28, 60, 81]
         },
         {
             "nombre": "🍊 Mercado Central",
-            "coordenadas": [39.4735, -0.3790],
+            "coordenadas": [39.4744, -0.3794],
             "descripcion": "Un mercado histórico con una amplia oferta de productos frescos y locales.",
-            "direccion": "Plaza Ciudad de Brujas, s/n, 46001",
+            "direccion": "Plaza Ciudad de Brujas, Ciutat Vella",
             "imagen": "img/places/central.jpg",
             "autobuses": [4, 7, 27, 28, 60, 81]
         },
         {
             "nombre": "🌳 Jardín del Turia",
-            "coordenadas": [39.477239890854655, -0.3694770000319716],
+            "coordenadas": [39.4770, -0.3695],
             "descripcion": "Un extenso jardín que cruza la ciudad, ideal para paseos y actividades al aire libre.",
-            "direccion": "Av. de Manuel de Falla, s/n",
+            "direccion": "'El Río'",
             "imagen": "img/places/turia.jpg",
             "autobuses": [11, 28, 70, 95]
         },
         {
             "nombre": "🏰 Torres de Serranos",
-            "coordenadas": [39.4785, -0.3732],
+            "coordenadas": [39.4795, -0.3759],
             "descripcion": "Puerta de la antigua muralla medieval con vistas panorámicas.",
-            "direccion": "Plaza de los Fueros, s/n",
+            "direccion": "Plaza de los Fueros, Ciutat Vella",
             "imagen": "img/places/serranos.jpg",
             "autobuses": [1, 4, 5, 19, 27, 80, 95]
         },
@@ -68,17 +68,9 @@
             "nombre": "🏰 Torres de Quart",
             "coordenadas": [39.4764, -0.3838],
             "descripcion": "Otra puerta de la muralla medieval, testigo de la historia de Valencia.",
-            "direccion": "C/ Guillem de Castro, 89",
+            "direccion": "C/ de Guillem de Castro, 102, Ciutat Vella",
             "imagen": "img/places/quart.jpg",
             "autobuses": [2, 5, 27, 60, 64, 79, 81]
-        },
-        {
-            "nombre": "🎨 Museo de Bellas Artes",
-            "coordenadas": [39.4791, -0.3711],
-            "descripcion": "Uno de los museos más importantes de España, con una extensa colección de arte.",
-            "direccion": "C/ de Sant Pius V, 9, 46010",
-            "imagen": "img/places/barts.jpg",
-            "autobuses": [1, 6, 11, 16, 19, 28, 64, 79, 80, 95]
         },
         {
             "nombre": "🏛️ Plaza del Ayuntamiento",
@@ -98,12 +90,20 @@
         },
         {
             "nombre": "🦁 Bioparc Valencia",
-            "coordenadas": [39.4781, -0.4136],
+            "coordenadas": [39.4783, -0.4075],
             "descripcion": "Un parque zoológico innovador con hábitats inmersivos.",
             "direccion": "Av. Pío Baroja, 3",
             "imagen": "img/places/bioparc.jpg",
             "autobuses": [2, 5, 67, 90, 95]
         },
+        {
+            "nombre": "🛝 Parque Gulliver",
+            "coordenadas": [39.4629, -0.3593],
+            "descripcion": "Un parque único con una enorme figura de Gulliver que actúa como parque infantil, lleno de toboganes y zonas para explorar.",
+            "direccion": "Antiguo cauce del Turia, Tramo XII, Valencia",
+            "imagen": "img/places/gulliver.jpg",
+            "autobuses": [18, 23, 94, 95]
+        },        
         {
             "nombre": "🐂 Plaza de Toros",
             "coordenadas": [39.4658, -0.3758],
@@ -113,20 +113,12 @@
             "autobuses": [5, 8, 10, 19, 27, 32, 62, 81]
         },
         {
-            "nombre": "🏛️ IVAM",
-            "coordenadas": [39.4763, -0.3795],
-            "descripcion": "Museo de arte moderno y contemporáneo con exposiciones innovadoras.",
-            "direccion": "C/ de Guillem de Castro, 118",
-            "imagen": "img/places/ivam.jpg",
-            "autobuses": [1, 5, 19, 27, 79, 80, 95]
-        },
-        {
-            "nombre": "🎨 MUVIM",
-            "coordenadas": [39.4718, -0.3814],
-            "descripcion": "Museo Valenciano de la Ilustración y la Modernidad. Exposiciones relacionadas.",
-            "direccion": "C/ de Quevedo, 10",
-            "imagen": "img/places/muvim.jpg",
-            "autobuses": [2, 3, 5, 9, 10, 27, 60, 62, 71, 81]
+            "nombre": "🎼 Palau de la Música",
+            "coordenadas": [39.4663, -0.3600],
+            "descripcion": "Un importante auditorio con conciertos y eventos culturales.",
+            "direccion": "Passeig de l'Albereda, 30",
+            "imagen": "img/places/palau.jpg",
+            "autobuses": [1, 2, 3, 4, 10, 80, 95]
         },
         {
             "nombre": "🐟 Oceanogràfic",
@@ -137,6 +129,22 @@
             "autobuses": [1, 2, 19, 35, 89, 95]
         },
         {
+            "nombre": "🏟️ Estadio de Mestalla",
+            "coordenadas": [39.4747, -0.3585],
+            "descripcion": "Estadio histórico del Valencia CF, conocido por su ambiente vibrante y su arquitectura única.",
+            "direccion": "Av. de Suècia, El Pla del Real",
+            "imagen": "img/places/mestalla.jpg",
+            "autobuses": [6, 25, 31, 71, "L1"]
+        },
+        {
+            "nombre": "🏟️ Estadio Ciutat de València",
+            "coordenadas": [39.4948, -0.3638],
+            "descripcion": "Estadio del Levante UD, ubicado en el barrio de Orriols, con capacidad para más de 26,000 espectadores.",
+            "direccion": "C/ de San Vicente de Paúl, 44, Rascanya",
+            "imagen": "img/places/levante.jpg",
+            "autobuses": [11, 12, 70]
+        },        
+        {
             "nombre": "🚢 Puerto Valencia",
             "coordenadas": [39.4597, -0.3255],
             "descripcion": "El puerto principal de la ciudad, con vistas impresionantes y actividades recreativas.",
@@ -146,12 +154,92 @@
         },
         {
             "nombre": "🏖️ Playa Malvarrosa",
-            "coordenadas": [39.4801, -0.3274],
+            "coordenadas": [39.4775, -0.3234],
             "descripcion": "Una de las playas más populares de Valencia.",
             "direccion": "Paseo Marítimo",
             "imagen": "img/places/malvarrosa.jpg",
-            "autobuses": [2, 19, 31, 32]
+            "autobuses": [19, 31, 32, 93,92]
         },
+        {
+            "nombre": "🏖️ Playa de Las Arenas",
+            "coordenadas": [39.4667, -0.3216],
+            "descripcion": "Playa urbana con paseo marítimo, restaurantes y bares, ideal para disfrutar del ambiente mediterráneo.",
+            "direccion": "Paseo Neptuno, Poblats Marítims",
+            "imagen": "img/places/arenas.jpg",
+            "autobuses": [19, 32, 92, 95]
+        },
+        {
+            "nombre": "🏖️ Playa de la Patacona",
+            "coordenadas": [39.4908, -0.3243],
+            "descripcion": "Playa tranquila y extensa, ideal para familias y deportes al aire libre, con restaurantes cercanos.",
+            "direccion": "Paseo Marítimo de la Patacona, 51, Alboraia",
+            "imagen": "img/places/patacona.jpg",
+            "autobuses": [19, 31, 32]
+        },
+        {
+            "nombre": "🏖️ Playa de Port Saplaya",
+            "coordenadas": [39.5110, -0.3210],
+            "descripcion": "Apacible playa urbana con un paseo marítimo a la sombra de palmeras y muelle para barcos.",
+            "direccion": "Camí Sèquia de la Mosquera, 3, Alboraia",
+            "imagen": "img/places/portsaplaya.jpg",
+            "autobuses": [112]
+        },
+        {
+            "nombre": "🏖️ Playa de Pinedo",
+            "coordenadas": [39.4221, -0.3332],
+            "descripcion": "Playa de arena, con vistas al puerto de Valencia, paseo marítimo y restaurantes de cocina española.",
+            "direccion": "Poblados del Sur, 46012 Valencia",
+            "imagen": "img/places/pinedo.jpg",
+            "autobuses": [23, 24, 25]
+        },
+        {
+            "nombre": "🛍️ Aqua CC",
+            "coordenadas": [39.4566, -0.3461],
+            "descripcion": "Moderno centro comercial cercano a la Ciudad de las Artes y las Ciencias.",
+            "direccion": "C/ de Menorca, 19, Camins al Grau",
+            "imagen": "img/places/aqua.jpg",
+            "autobuses": [19, 23, 35, 94, 99]
+        },
+        {
+            "nombre": "🛍️ Arena CC",
+            "coordenadas": [39.4942, -0.3625],
+            "descripcion": "Centro comercial versátil con tiendas, restaurantes y cine, ubicado junto al estadio del Levante UD.",
+            "direccion": "C/ de Santa Genoveva Torres, 21, Rascanya",
+            "imagen": "img/places/arena.jpg",
+            "autobuses": [11, 12, 70]
+        },
+        {
+            "nombre": "🛍️ Nuevo Centro CC",
+            "coordenadas": [39.4812, -0.3904],
+            "descripcion": " Centro comercial con tiendas, restaurantes y acceso cercano al antiguo cauce del Turia.",
+            "direccion": "Av. del Professor López Piñero, 16, Quatre Carreres",
+            "imagen": "img/places/ncentro.jpg",
+            "autobuses": [92, 95]
+        },
+        {
+            "nombre": "🛍️ Saler CC",
+            "coordenadas": [39.4536, -0.3532],
+            "descripcion": "Un centro comercial espacioso con tiendas, restaurantes y cine, cerca de la Ciudad de las Artes y las Ciencias.",
+            "direccion": "Av. del Professor López Piñero, 16, Quatre Carreres",
+            "imagen": "img/places/saler.jpg",
+            "autobuses": [13, 14, 23, 95, 99]
+        }, 
+        {
+            "nombre": "🎭 Teatro Olympia",
+            "coordenadas": [39.4703, -0.3773],
+            "descripcion": "Icónico teatro en el corazón de Valencia, conocido por su variada programación de obras y espectáculos.",
+            "direccion": "C/ de Sant Vicent Màrtir, 44, Ciutat Vella",
+            "imagen": "img/places/olympia.jpg",
+            "autobuses": [4, 14, 62, 71]
+        },
+        {
+            "nombre": "🎭 Teatro Principal",
+            "coordenadas": [39.4698, -0.3756],
+            "descripcion": "Histórico teatro valenciano con una rica tradición cultural y una amplia oferta de representaciones artísticas.",
+            "direccion": "C/ de les Barques, 15, Ciutat Vella",
+            "imagen": "img/places/principal.jpg",
+            "autobuses": [10, 11, 25, 26, 70]
+        },        
         {
             "nombre": "🎭 Teatro Rialto",
             "coordenadas": [39.4715, -0.3763],
@@ -161,7 +249,7 @@
             "autobuses": [6, 8, 9, 10, 11, 13, 26, 31, 62, 70, 71, 81]
         },
         {
-            "nombre": "🏰 La Beneficencia",
+            "nombre": "🏫 La Beneficencia",
             "coordenadas": [39.4777, -0.3763],
             "descripcion": "Un centro cultural que incluye varios museos y actividades.",
             "direccion": "C/ de la Corona, 36",
@@ -169,20 +257,36 @@
             "autobuses": [1, 2, 3, 5, 9, 10, 79, 80, 95]
         },
         {
+            "nombre": "🎨 Museo de Bellas Artes",
+            "coordenadas": [39.4791, -0.3711],
+            "descripcion": "Uno de los museos más importantes de España, con una extensa colección de arte.",
+            "direccion": "C/ de Sant Pius V, 9, 46010",
+            "imagen": "img/places/barts.jpg",
+            "autobuses": [1, 6, 11, 16, 19, 28, 64, 79, 80, 95]
+        },
+        {
+            "nombre": "🎨 IVAM",
+            "coordenadas": [39.4763, -0.3795],
+            "descripcion": "Museo de arte moderno y contemporáneo con exposiciones innovadoras.",
+            "direccion": "C/ de Guillem de Castro, 118",
+            "imagen": "img/places/ivam.jpg",
+            "autobuses": [1, 5, 19, 27, 79, 80, 95]
+        },
+        {
+            "nombre": "🎨 MUVIM",
+            "coordenadas": [39.4702, -0.3813],
+            "descripcion": "Museo Valenciano de la Ilustración y la Modernidad. Exposiciones relacionadas.",
+            "direccion": "C/ de Quevedo, 10",
+            "imagen": "img/places/muvim.jpg",
+            "autobuses": [2, 3, 5, 9, 10, 27, 60, 62, 71, 81]
+        },
+        {
             "nombre": "🏛️ Museo de Historia de Valencia",
-            "coordenadas": [39.4785, -0.4067],
+            "coordenadas": [39.4732, -0.4080],
             "descripcion": "Un museo dedicado a la historia de Valencia desde sus orígenes.",
             "direccion": "C/ de València, 42",
             "imagen": "img/places/historia.jpg",
             "autobuses": [2, 3, 29, 81, 90, 95]
-        },
-        {
-            "nombre": "🎼 Palau de la Música",
-            "coordenadas": [39.4642, -0.3553],
-            "descripcion": "Un importante auditorio con conciertos y eventos culturales.",
-            "direccion": "Passeig de l'Albereda, 30",
-            "imagen": "img/places/palau.jpg",
-            "autobuses": [1, 2, 3, 4, 10, 80, 95]
         },
         {
             "nombre": "🏰 Museo de la Ciudad",
@@ -191,7 +295,32 @@
             "direccion": "Plaza del Arzobispo, 3",
             "imagen": "img/places/ciudad.jpg",
             "autobuses": [4, 5, 9, 10, 71, 79, 81]
-        }
+        },
+        {
+            "nombre": "🚉 Estación Joaquín Sorolla",
+            "coordenadas": [39.4607, -0.3816],
+            "descripcion": "Moderna estación de tren de alta velocidad (AVE) conectada con otras ciudades principales de España.",
+            "direccion": "C/ de San Vicente Mártir, 171, Quatre Carreres",
+            "imagen": "img/places/sorolla.jpg",
+            "autobuses": [31]
+        },
+        {
+            "nombre": "🚉 Estación del Norte",
+            "coordenadas": [39.4667, -0.3772],
+            "descripcion": "Histórica estación central de trenes de Valencia, conocida por su arquitectura modernista.",
+            "direccion": "C/ de Xàtiva, Ciutat Vella",
+            "imagen": "img/places/norte.jpg",
+            "autobuses": [35, 70]
+        },
+        {
+            "nombre": "✈️ Aeropuerto de Valencia",
+            "coordenadas": [39.4885, -0.4844],
+            "descripcion": "Aeropuerto internacional que conecta Valencia con destinos nacionales e internacionales.",
+            "direccion": "Carretera del Aeropuerto, s/n, Manises",
+            "imagen": "img/places/aeropuerto.jpg",
+            "autobuses": ["L1", "L9"]
+        }      
+
     ],
     "staticText": {
         "descripcion": "Descubre los mejores lugares de interés en Valencia",
@@ -213,7 +342,8 @@
         "ans4": "Las Fallas son la celebración más importante de Valencia, declarada Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. <br> Cada marzo, la ciudad se llena de arte, música, pólvora y fuego, con monumentos espectaculares de cartón piedra que se queman el 19 de Marzo durante la <strong>'Nit de la Cremà'</strong>.",
         "historyt": "Algo de Historia...",
         "historys": "Conoce los orígenes de esta antigua ciudad",
-        "history": "  Valencia tiene una rica historia que data de tiempos remotos. En 1238, el rey Jaume I de Aragón conquistó la ciudad, marcando el inicio de una nueva etapa en su historia. <br> A partir de entonces, Valencia se consolidó como un importante centro cultural y comercial del Reino de Valencia. Durante la Edad Media, la ciudad fue testigo de un florecimiento arquitectónico y artístico, con la construcción de importantes monumentos como la Lonja de la Seda y la Catedral de Valencia, que aún hoy son testigos del esplendor de su pasado. A lo largo de los siglos, Valencia ha sido un punto clave en la historia de España, adaptándose a las diferentes influencias culturales, pero siempre manteniendo su identidad única."
+        "history": "  Valencia tiene una rica historia que data de tiempos remotos. En 1238, el rey Jaume I de Aragón conquistó la ciudad, marcando el inicio de una nueva etapa en su historia. <br><br> A partir de entonces, Valencia se consolidó como un importante centro cultural y comercial del Reino de Valencia. Durante la Edad Media, la ciudad fue testigo de un florecimiento arquitectónico y artístico, con la construcción de importantes monumentos como la Lonja de la Seda y la Catedral de Valencia, que aún hoy son testigos del esplendor de su pasado. <br><br> A lo largo de los siglos, Valencia ha sido un punto clave en la historia de España, adaptándose a las diferentes influencias culturales, pero siempre manteniendo su identidad única.",
+        "tour": "Un Breve Tour"
 
         
       }

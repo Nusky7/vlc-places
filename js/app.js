@@ -94,6 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     document.getElementById('history-t').textContent = staticText.historyt;
                     document.getElementById('history-s').textContent = staticText.historys;
                     document.getElementById('history').innerHTML = staticText.history;
+                    document.getElementById('tour').innerHTML = staticText.tour;
                 }
 
                 // Mostrar lugares
