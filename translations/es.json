@@ -5,7 +5,7 @@
             "coordenadas": [39.4541, -0.3564],
             "descripcion": "Un impresionante y famoso complejo arquitectónico con museo, acuario y más.",
             "direccion": "Av. del Professor López Piñero, 7, Quatre Carreres",
-            "imagen": "img/places/arts.jpg",
+            "imagen": "img/places/arts.webp",
             "autobuses": [10, 13, 23, 94, 95, 99]
         },
         {
@@ -13,7 +13,7 @@
             "coordenadas": [39.4754, -0.3754],
             "descripcion": "Una majestuosa catedral con elementos góticos, románicos y barrocos.",
             "direccion": "Pl. de l'Almoina, s/n, Ciutat Vella",
-            "imagen": "img/places/catedral.jpg",
+            "imagen": "img/places/catedral.webp",
             "autobuses": [4, 5, 9, 10, 70, 71, 80, 81]
         },
         {
@@ -21,7 +21,7 @@
             "coordenadas": [39.4765, -0.3749],
             "descripcion": "Uno de los lugares más icónicos del casco antiguo.",
             "direccion": "Plaza de la Virgen, Ciutat Vella",
-            "imagen": "img/places/virgen.jpg",
+            "imagen": "img/places/virgen.webp",
             "autobuses": [25, 27, 62, 95]
         },
         {
@@ -29,7 +29,7 @@
             "coordenadas": [39.4754, -0.3755],
             "descripcion": "El campanario de la Catedral de Valencia, con vistas espectaculares de la ciudad.",
             "direccion": "Plaza de la Reina, Ciutat Vella",
-            "imagen": "img/places/miquelet.jpg",
+            "imagen": "img/places/miquelet.webp",
             "autobuses": [26, 32, 4, 60, 70]
         },
         {
@@ -37,7 +37,7 @@
             "coordenadas": [39.4745, -0.3783],
             "descripcion": "Un ejemplo destacado de arquitectura gótica, declarado Patrimonio de la Humanidad.",
             "direccion": "C/ de la Llotja, 2, Ciutat Vella",
-            "imagen": "img/places/lonja.jpg",
+            "imagen": "img/places/lonja.webp",
             "autobuses": [4, 7, 27, 28, 60, 81]
         },
         {
@@ -45,7 +45,7 @@
             "coordenadas": [39.4744, -0.3794],
             "descripcion": "Un mercado histórico con una amplia oferta de productos frescos y locales.",
             "direccion": "Plaza Ciudad de Brujas, Ciutat Vella",
-            "imagen": "img/places/central.jpg",
+            "imagen": "img/places/central.webp",
             "autobuses": [4, 7, 27, 28, 60, 81]
         },
         {
@@ -53,7 +53,7 @@
             "coordenadas": [39.4770, -0.3695],
             "descripcion": "Un extenso jardín que cruza la ciudad, ideal para paseos y actividades al aire libre.",
             "direccion": "'El Río'",
-            "imagen": "img/places/turia.jpg",
+            "imagen": "img/places/turia.webp",
             "autobuses": [11, 28, 70, 95]
         },
         {
@@ -61,7 +61,7 @@
             "coordenadas": [39.4795, -0.3759],
             "descripcion": "Puerta de la antigua muralla medieval con vistas panorámicas.",
             "direccion": "Plaza de los Fueros, Ciutat Vella",
-            "imagen": "img/places/serranos.jpg",
+            "imagen": "img/places/serranos.webp",
             "autobuses": [1, 4, 5, 19, 27, 80, 95]
         },
         {
@@ -69,7 +69,7 @@
             "coordenadas": [39.4764, -0.3838],
             "descripcion": "Otra puerta de la muralla medieval, testigo de la historia de Valencia.",
             "direccion": "C/ de Guillem de Castro, 102, Ciutat Vella",
-            "imagen": "img/places/quart.jpg",
+            "imagen": "img/places/quart.webp",
             "autobuses": [2, 5, 27, 60, 64, 79, 81]
         },
         {
@@ -77,7 +77,7 @@
             "coordenadas": [39.4698, -0.3762],
             "descripcion": "Un lugar céntrico rodeado de edificios históricos y ornamentales.",
             "direccion": "Plaza del Ayuntamiento, s/n",
-            "imagen": "img/places/ayun.jpg",
+            "imagen": "img/places/ayun.webp",
             "autobuses": [4, 6, 8, 9, 11, 16, 26, 28, 70, 71, 72, 81]
         },
         {
@@ -85,7 +85,7 @@
             "coordenadas": [39.4719, -0.3749],
             "descripcion": "Un impresionante palacio barroco, sede del Museo Nacional de Cerámica.",
             "direccion": "C/ Poeta Querol, 2",
-            "imagen": "img/places/marques.jpg",
+            "imagen": "img/places/marques.webp",
             "autobuses": [4, 8, 9, 10, 11, 28, 31, 71]
         },
         {
@@ -93,7 +93,7 @@
             "coordenadas": [39.4783, -0.4075],
             "descripcion": "Un parque zoológico innovador con hábitats inmersivos.",
             "direccion": "Av. Pío Baroja, 3",
-            "imagen": "img/places/bioparc.jpg",
+            "imagen": "img/places/bioparc.webp",
             "autobuses": [2, 5, 67, 90, 95]
         },
         {
@@ -101,7 +101,7 @@
             "coordenadas": [39.4629, -0.3593],
             "descripcion": "Un parque único con una enorme figura de Gulliver que actúa como parque infantil, lleno de toboganes y zonas para explorar.",
             "direccion": "Antiguo cauce del Turia, Tramo XII, Valencia",
-            "imagen": "img/places/gulliver.jpg",
+            "imagen": "img/places/gulliver.webp",
             "autobuses": [18, 23, 94, 95]
         },        
         {
@@ -109,7 +109,7 @@
             "coordenadas": [39.4658, -0.3758],
             "descripcion": "Un lugar histórico que también alberga eventos culturales.",
             "direccion": "C/ Xàtiva, 28",
-            "imagen": "img/places/toros.jpg",
+            "imagen": "img/places/toros.webp",
             "autobuses": [5, 8, 10, 19, 27, 32, 62, 81]
         },
         {
@@ -117,7 +117,7 @@
             "coordenadas": [39.4663, -0.3600],
             "descripcion": "Un importante auditorio con conciertos y eventos culturales.",
             "direccion": "Passeig de l'Albereda, 30",
-            "imagen": "img/places/palau.jpg",
+            "imagen": "img/places/palau.webp",
             "autobuses": [1, 2, 3, 4, 10, 80, 95]
         },
         {
@@ -125,7 +125,7 @@
             "coordenadas": [39.4542, -0.3490],
             "descripcion": "El mayor acuario de Europa, con hábitats de todo el mundo.",
             "direccion": "Carrer d'Eduardo Primo Yúfera, 1B",
-            "imagen": "img/places/oceano.jpg",
+            "imagen": "img/places/oceano.webp",
             "autobuses": [1, 2, 19, 35, 89, 95]
         },
         {
@@ -133,7 +133,7 @@
             "coordenadas": [39.4747, -0.3585],
             "descripcion": "Estadio histórico del Valencia CF, conocido por su ambiente vibrante y su arquitectura única.",
             "direccion": "Av. de Suècia, El Pla del Real",
-            "imagen": "img/places/mestalla.jpg",
+            "imagen": "img/places/mestalla.webp",
             "autobuses": [6, 25, 31, 71, "L1"]
         },
         {
@@ -141,7 +141,7 @@
             "coordenadas": [39.4948, -0.3638],
             "descripcion": "Estadio del Levante UD, ubicado en el barrio de Orriols, con capacidad para más de 26,000 espectadores.",
             "direccion": "C/ de San Vicente de Paúl, 44, Rascanya",
-            "imagen": "img/places/levante.jpg",
+            "imagen": "img/places/levante.webp",
             "autobuses": [11, 12, 70]
         },        
         {
@@ -149,7 +149,7 @@
             "coordenadas": [39.4597, -0.3255],
             "descripcion": "El puerto principal de la ciudad, con vistas impresionantes y actividades recreativas.",
             "direccion": "Av. del Puerto, s/n",
-            "imagen": "img/places/puerto.jpg",
+            "imagen": "img/places/puerto.webp",
             "autobuses": [1, 2, 3, 4, 19, 32]
         },
         {
@@ -157,7 +157,7 @@
             "coordenadas": [39.4775, -0.3234],
             "descripcion": "Una de las playas más populares de Valencia.",
             "direccion": "Paseo Marítimo",
-            "imagen": "img/places/malvarrosa.jpg",
+            "imagen": "img/places/malvarrosa.webp",
             "autobuses": [19, 31, 32, 93,92]
         },
         {
@@ -165,7 +165,7 @@
             "coordenadas": [39.4667, -0.3216],
             "descripcion": "Playa urbana con paseo marítimo, restaurantes y bares, ideal para disfrutar del ambiente mediterráneo.",
             "direccion": "Paseo Neptuno, Poblats Marítims",
-            "imagen": "img/places/arenas.jpg",
+            "imagen": "img/places/arenas.webp",
             "autobuses": [19, 32, 92, 95]
         },
         {
@@ -173,7 +173,7 @@
             "coordenadas": [39.4908, -0.3243],
             "descripcion": "Playa tranquila y extensa, ideal para familias y deportes al aire libre, con restaurantes cercanos.",
             "direccion": "Paseo Marítimo de la Patacona, 51, Alboraia",
-            "imagen": "img/places/patacona.jpg",
+            "imagen": "img/places/patacona.webp",
             "autobuses": [19, 31, 32]
         },
         {
@@ -181,7 +181,7 @@
             "coordenadas": [39.5110, -0.3210],
             "descripcion": "Apacible playa urbana con un paseo marítimo a la sombra de palmeras y muelle para barcos.",
             "direccion": "Camí Sèquia de la Mosquera, 3, Alboraia",
-            "imagen": "img/places/portsaplaya.jpg",
+            "imagen": "img/places/portsaplaya.webp",
             "autobuses": [112]
         },
         {
@@ -189,7 +189,7 @@
             "coordenadas": [39.4221, -0.3332],
             "descripcion": "Playa de arena, con vistas al puerto de Valencia, paseo marítimo y restaurantes de cocina española.",
             "direccion": "Poblados del Sur, 46012 Valencia",
-            "imagen": "img/places/pinedo.jpg",
+            "imagen": "img/places/pinedo.webp",
             "autobuses": [23, 24, 25]
         },
         {
@@ -197,7 +197,7 @@
             "coordenadas": [39.4566, -0.3461],
             "descripcion": "Moderno centro comercial cercano a la Ciudad de las Artes y las Ciencias.",
             "direccion": "C/ de Menorca, 19, Camins al Grau",
-            "imagen": "img/places/aqua.jpg",
+            "imagen": "img/places/aqua.webp",
             "autobuses": [19, 23, 35, 94, 99]
         },
         {
@@ -205,7 +205,7 @@
             "coordenadas": [39.4942, -0.3625],
             "descripcion": "Centro comercial versátil con tiendas, restaurantes y cine, ubicado junto al estadio del Levante UD.",
             "direccion": "C/ de Santa Genoveva Torres, 21, Rascanya",
-            "imagen": "img/places/arena.jpg",
+            "imagen": "img/places/arena.webp",
             "autobuses": [11, 12, 70]
         },
         {
@@ -213,7 +213,7 @@
             "coordenadas": [39.4812, -0.3904],
             "descripcion": " Centro comercial con tiendas, restaurantes y acceso cercano al antiguo cauce del Turia.",
             "direccion": "Av. del Professor López Piñero, 16, Quatre Carreres",
-            "imagen": "img/places/ncentro.jpg",
+            "imagen": "img/places/ncentro.webp",
             "autobuses": [92, 95]
         },
         {
@@ -221,7 +221,7 @@
             "coordenadas": [39.4536, -0.3532],
             "descripcion": "Un centro comercial espacioso con tiendas, restaurantes y cine, cerca de la Ciudad de las Artes y las Ciencias.",
             "direccion": "Av. del Professor López Piñero, 16, Quatre Carreres",
-            "imagen": "img/places/saler.jpg",
+            "imagen": "img/places/saler.webp",
             "autobuses": [13, 14, 23, 95, 99]
         }, 
         {
@@ -229,7 +229,7 @@
             "coordenadas": [39.4703, -0.3773],
             "descripcion": "Icónico teatro en el corazón de Valencia, conocido por su variada programación de obras y espectáculos.",
             "direccion": "C/ de Sant Vicent Màrtir, 44, Ciutat Vella",
-            "imagen": "img/places/olympia.jpg",
+            "imagen": "img/places/olympia.webp",
             "autobuses": [4, 14, 62, 71]
         },
         {
@@ -237,7 +237,7 @@
             "coordenadas": [39.4698, -0.3756],
             "descripcion": "Histórico teatro valenciano con una rica tradición cultural y una amplia oferta de representaciones artísticas.",
             "direccion": "C/ de les Barques, 15, Ciutat Vella",
-            "imagen": "img/places/principal.jpg",
+            "imagen": "img/places/principal.webp",
             "autobuses": [10, 11, 25, 26, 70]
         },        
         {
@@ -245,7 +245,7 @@
             "coordenadas": [39.4715, -0.3763],
             "descripcion": "Un teatro histórico en el centro de Valencia, conocido por su arquitectura y sus representaciones.",
             "direccion": "Carrer de las Barcas, 15",
-            "imagen": "img/places/rialto.jpg",
+            "imagen": "img/places/rialto.webp",
             "autobuses": [6, 8, 9, 10, 11, 13, 26, 31, 62, 70, 71, 81]
         },
         {
@@ -253,7 +253,7 @@
             "coordenadas": [39.4777, -0.3763],
             "descripcion": "Un centro cultural que incluye varios museos y actividades.",
             "direccion": "C/ de la Corona, 36",
-            "imagen": "img/places/beneficencia.jpg",
+            "imagen": "img/places/beneficencia.webp",
             "autobuses": [1, 2, 3, 5, 9, 10, 79, 80, 95]
         },
         {
@@ -261,7 +261,7 @@
             "coordenadas": [39.4791, -0.3711],
             "descripcion": "Uno de los museos más importantes de España, con una extensa colección de arte.",
             "direccion": "C/ de Sant Pius V, 9, 46010",
-            "imagen": "img/places/barts.jpg",
+            "imagen": "img/places/barts.webp",
             "autobuses": [1, 6, 11, 16, 19, 28, 64, 79, 80, 95]
         },
         {
@@ -269,7 +269,7 @@
             "coordenadas": [39.4763, -0.3795],
             "descripcion": "Museo de arte moderno y contemporáneo con exposiciones innovadoras.",
             "direccion": "C/ de Guillem de Castro, 118",
-            "imagen": "img/places/ivam.jpg",
+            "imagen": "img/places/ivam.webp",
             "autobuses": [1, 5, 19, 27, 79, 80, 95]
         },
         {
@@ -277,7 +277,7 @@
             "coordenadas": [39.4702, -0.3813],
             "descripcion": "Museo Valenciano de la Ilustración y la Modernidad. Exposiciones relacionadas.",
             "direccion": "C/ de Quevedo, 10",
-            "imagen": "img/places/muvim.jpg",
+            "imagen": "img/places/muvim.webp",
             "autobuses": [2, 3, 5, 9, 10, 27, 60, 62, 71, 81]
         },
         {
@@ -285,7 +285,7 @@
             "coordenadas": [39.4732, -0.4080],
             "descripcion": "Un museo dedicado a la historia de Valencia desde sus orígenes.",
             "direccion": "C/ de València, 42",
-            "imagen": "img/places/historia.jpg",
+            "imagen": "img/places/historia.webp",
             "autobuses": [2, 3, 29, 81, 90, 95]
         },
         {
@@ -293,7 +293,7 @@
             "coordenadas": [39.4723, -0.3739],
             "descripcion": "Museo que cuenta la historia de Valencia desde su fundación.",
             "direccion": "Plaza del Arzobispo, 3",
-            "imagen": "img/places/ciudad.jpg",
+            "imagen": "img/places/ciudad.webp",
             "autobuses": [4, 5, 9, 10, 71, 79, 81]
         },
         {
@@ -301,7 +301,7 @@
             "coordenadas": [39.4607, -0.3816],
             "descripcion": "Moderna estación de tren de alta velocidad (AVE) conectada con otras ciudades principales de España.",
             "direccion": "C/ de San Vicente Mártir, 171, Quatre Carreres",
-            "imagen": "img/places/sorolla.jpg",
+            "imagen": "img/places/sorolla.webp",
             "autobuses": [31]
         },
         {
@@ -309,7 +309,7 @@
             "coordenadas": [39.4667, -0.3772],
             "descripcion": "Histórica estación central de trenes de Valencia, conocida por su arquitectura modernista.",
             "direccion": "C/ de Xàtiva, Ciutat Vella",
-            "imagen": "img/places/norte.jpg",
+            "imagen": "img/places/norte.webp",
             "autobuses": [35, 70]
         },
         {
@@ -317,7 +317,7 @@
             "coordenadas": [39.4885, -0.4844],
             "descripcion": "Aeropuerto internacional que conecta Valencia con destinos nacionales e internacionales.",
             "direccion": "Carretera del Aeropuerto, s/n, Manises",
-            "imagen": "img/places/aeropuerto.jpg",
+            "imagen": "img/places/aeropuerto.webp",
             "autobuses": ["L1", "L9"]
         }      
 
