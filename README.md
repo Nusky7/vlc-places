@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Valencia Places is a fully interactive web application designed to showcase the most iconic landmarks and attractions in Valencia. Built entirely with HTML, CSS, JavaScript, and Bootstrap, this project delivers a responsive and visually engaging experience.<br><br>🌐 <b>Visit Here:</b><br><a href="https://nusky7studio.es" target="_blank">www.nusky7studio.es/ValenciaPlaces</a></p></p>
+<p align="center">Valencia Places is a fully interactive web application designed to showcase the most iconic landmarks and attractions in Valencia. Built entirely with HTML, CSS, JavaScript, and Bootstrap, this project delivers a responsive and visually engaging experience.<br><br>🌐 <b>Visit Here:</b><br><a href="https://nusky7studio.es/ValenciaPlaces" target="_blank">www.nusky7studio.es/ValenciaPlaces</a></p></p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🌗 <b>Dark/Light Mode:</b> Easily switch between Dark / Light themes for a personalized browsing experience.<br><br>🌍 <b>Bilingual Content:</b><br>The portfolio is available in both English and Spanish, catering to a diverse audience.<br><br>🗺️ <b>Interactive Map:</b> Explore the city of Valencia with a map powered by Leaflet.js.<br><br>📍 <b>Location Markers:</b> Key landmarks are marked with details, including names, descriptions, and images.<br><br>📡 <b>"My Location" Button:</b> Automatically center the map on your current location and display an accuracy radius.<br><br>📋 <b>Dynamic List:</b> A clickable list of the places that highlights their locations and provides the information.<br><br>📱 <b>Responsive Design:</b> The layout is optimized for both desktop and mobile devices.<br><br><br></p>
+<p align="left">🌗 <b>Dark/Light Mode:</b> Easily switch between Dark / Light themes for a personalized browsing experience.<br><br>🌍 <b>Bilingual Content:</b> The portfolio is available in both English and Spanish, catering to a diverse audience.<br><br>🗺️ <b>Interactive Map:</b> Explore the city of Valencia with a map powered by Leaflet.js.<br><br>📍 <b>Location Markers:</b> Key landmarks are marked with details, including names, descriptions, and images.<br><br>📡 <b>"My Location" Button:</b> Automatically center the map on your current location and display an accuracy radius.<br><br>📋 <b>Dynamic List:</b> A clickable list of the places that highlights their locations and provides the information.<br><br>📱 <b>Responsive Design:</b> The layout is optimized for both desktop and mobile devices.<br><br><br></p>
 
 ###
 
